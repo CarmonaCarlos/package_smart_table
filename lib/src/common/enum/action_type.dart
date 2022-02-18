@@ -1,0 +1,5 @@
+enum ActionButtonType
+{
+  delete,
+  edit
+}

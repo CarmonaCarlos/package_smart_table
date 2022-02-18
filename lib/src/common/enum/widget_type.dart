@@ -1,0 +1,5 @@
+enum DataTableWidgetType
+{
+  iconButtonState,
+  image,
+}
